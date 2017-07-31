@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/niuniu8866/meantutorial/issues"
   },
-  "homepage": "https://github.com/niuniu8866/meantutorial#readme"
+  "homepage": "https://github.com/niuniu8866/meantutorial#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
