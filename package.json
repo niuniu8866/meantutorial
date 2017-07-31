@@ -1,0 +1,20 @@
+{
+  "name": "meantutorial",
+  "version": "1.0.0",
+  "description": "MEAN tutorial https://www.youtube.com/watch?v=6zfnOrHIUtA&list=PL3vQyqzqjZ637sWpKvniMCxdqZhnMJC1d&index=2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niuniu8866/meantutorial.git"
+  },
+  "author": "Ye Feng Wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niuniu8866/meantutorial/issues"
+  },
+  "homepage": "https://github.com/niuniu8866/meantutorial#readme"
+}
